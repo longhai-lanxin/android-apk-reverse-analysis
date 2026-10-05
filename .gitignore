@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 扫描产物（不要把个人磁盘报告提交上来）
+disk_analyzer/
+dup_scan/
+move_manifest.json
+organize_plan.*
+residue_report.*
+cleanup_plan.json
+cleanup_log.json
+walk_cache.json
+*.csv
